@@ -1,0 +1,23 @@
+HOME MIRACLE — version SIAL Paris
+
+POUR OUVRIR LE SITE
+1. Décompressez le fichier ZIP.
+2. Ouvrez index.html dans Chrome, Safari ou Edge.
+
+CONTACT COMMERCIAL INTÉGRÉ
+- Kavrakov Tsvetelin
+- +359 895 522 262 (téléphone et WhatsApp)
+- elitmes.commerce.fr@gmail.com
+
+Les boutons d’appel, WhatsApp et e-mail sont actifs.
+
+FICHIERS PRINCIPAUX
+- index.html : la page complète
+- assets/logo-home-miracle.png : logo fourni
+- assets/fabrication-home-miracle.mp4 : vidéo fournie
+- assets/contact-commercial.jpeg : photo réelle du représentant commercial
+- assets/sial-paris-2026-stand.png : bannière officielle SIAL Paris, stand 6 B103
+- assets/produit-*-v2.png : six visuels harmonisés avec le logo officiel HOME MIRACLE
+- assets/*.png : visuels produits créés pour cette version
+
+Le site est conçu en priorité pour un affichage mobile via QR code.
